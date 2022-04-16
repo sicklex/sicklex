@@ -23,9 +23,9 @@
       
    ##
     
-<div align="center">
+
   ![snake gif](https://github.com/sicklex/sicklex/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
    
    
