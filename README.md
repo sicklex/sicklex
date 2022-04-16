@@ -21,9 +21,8 @@
     <a hreft="https://www.linkedin.com/in/claydson-francisco-817674157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"<a/>
       
       
-      <div>
+      <div align="center">
         ![Snake animation](https:github.com/sicklex/sicklex/blob/output/github-contribution-grid-snake.svg
-
       </div>
       
   </div>
