@@ -16,16 +16,17 @@
   
   ##
   
-  <div >
+ <div >
     <a href="mailto:claydson.francisco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
     <a href="https://www.linkedin.com/in/claydson-francisco-817674157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"<a/>
  </di>
       
 
     
-
+  
+   <div>
   ![snake gif](https://github.com/sicklex/sicklex/blob/output/github-contribution-grid-snake.svg)
-
+   </div>
 
    
    
